@@ -29,14 +29,18 @@ request('https://www.imn.ac.cr/estaciones-automaticas', async(err, res, body)=>{
                        let base=url.split("/");
                        if(p.length===3){
                            base=base[0]+"//"+base[2]+"/"+base[3]+"/"+p[2];
+                           download(base,p[2],function () {
+                               console.log("done");
+                           })
                        }else{
                            base=base[0]+"//"+base[2]+"/"+base[3]+"/"+base[3]+p[0];
+                           download(base,p[0],function () {
+                               console.log("done");
+                           })
                        }
-                       console.log(base);
+                       //console.log(base);
+
                    });
-               }
-               else {
-                   console.log("error con las imagenes "+ url)
                }
            });
 
@@ -44,14 +48,11 @@ request('https://www.imn.ac.cr/estaciones-automaticas', async(err, res, body)=>{
    }
 });
 
-function guardarImagenFichero (img) {
-
-    img = img.src;
-    window.newW = open (img);
-    newW.document.execCommand("SaveAs");
-    newW.close();
-}
-
+let download = function(uri, filename, callback){
+    request.head(uri, function(err, res, body){
+        request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+    });
+};
 
 
 
