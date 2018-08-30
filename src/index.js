@@ -3,7 +3,14 @@ const fs = require('fs');
 const request= require('request');
 
 
-let identificador=0;
+let noDwld=["qnhpave.png", "qnhlib07.png",  "qnhajsm07.png"];
+
+disponible=function(palabra,lista){
+    for(let i=0; i< lista.length; i++){
+        if(palabra===lista[i]) return false;
+    }
+    return true;
+};
 
 request('https://www.imn.ac.cr/estaciones-automaticas', async(err, res, body)=>{
    if(!err && res.statusCode === 200){
@@ -28,18 +35,21 @@ request('https://www.imn.ac.cr/estaciones-automaticas', async(err, res, body)=>{
                        let image =i(this).attr('src');
                        let p=image.split("/");
                        let base=url.split("/");
-                       if(p.length===3){
-                           base=base[0]+"//"+base[2]+"/"+base[3]+"/"+p[2];
-                           download(base,p[2],function () {
-                               console.log("done");
-                           });
-                           //console.log("base1: "+ base);
+                       if(p.length===3 ){
+                           if(disponible(p[2],noDwld)){
+                               base=base[0]+"//"+base[2]+"/"+base[3]+"/"+p[2];
+                                download(base,p[2],function () {
+                                    console.log("done");
+                                });
+                               //console.log("base1: "+ base);
+                           }
+
                        }else{
                            base=base[0]+"//"+base[2]+"/"+base[3]+"/"+p[0];
                           download(base,p[0],function () {
                                console.log("done");
                            });
-                           //console.log("base2: "+ base);
+                           //console.log("base2: "+ base); //
                        }
 
                    });
