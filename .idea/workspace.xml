@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4725b295-7104-4fca-8d6d-05003bc2b587" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/.idea/ScrapingDS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-conv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-conv.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-sign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-sign.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-verify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/sshpk-verify.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/.bin/uuid.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/.tonic_example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/dist/ajv.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/dist/ajv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/dist/ajv.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/dist/nodent.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/dist/regenerator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/$data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/ajv.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/ajv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/_rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/equal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/error_classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/resolve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/schema_obj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/ucs2length.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/compile/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/_limit.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/_limitItems.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/_limitLength.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/_limitProperties.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/allOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/anyOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/coerce.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/const.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/contains.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/custom.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/defaults.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/definitions.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/dependencies.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/enum.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/errors.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/format.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/items.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/missing.def" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/multipleOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/not.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/oneOf.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/pattern.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/properties.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/propertyNames.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/ref.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/required.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/uniqueItems.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dot/validate.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/_limit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/_limitItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/_limitLength.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/_limitProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/allOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/anyOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/contains.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/dependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/multipleOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/not.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/oneOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/pattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/propertyNames.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/ref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/required.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/uniqueItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/dotjs/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/keyword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/patternGroups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/refs/$data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/refs/json-schema-draft-04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/refs/json-schema-draft-06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/lib/refs/json-schema-v5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/compile-dots.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/prepare-tests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ajv/scripts/travis-gh-pages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/ber/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/ber/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/ber/reader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/ber/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/ber/writer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asn1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/assert-plus/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/assert-plus/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/assert-plus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/assert-plus/assert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/assert-plus/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/bench.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/abort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/iterate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/readable_asynckit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/readable_parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/readable_serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/readable_serial_ordered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/streamify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/lib/terminator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/serialOrdered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/asynckit/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws-sign2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws-sign2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws-sign2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws-sign2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/aws4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/lru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/aws4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/bcrypt-pbkdf/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/bcrypt-pbkdf/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/bcrypt-pbkdf/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/bcrypt-pbkdf/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/bcrypt-pbkdf/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/boolbase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/boolbase/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/boolbase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/caseless/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/caseless/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/caseless/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/caseless/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/caseless/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/api/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/api/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/api/forms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/api/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/api/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/cheerio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/cheerio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/co/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/co/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/co/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/co/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/co/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/combined-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/combined-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/combined-stream/lib/combined_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/combined-stream/lib/defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/combined-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/general.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/procedure.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/pseudos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/lib/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-select/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-what/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-what/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-what/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/css-what/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/etc/dashdash.bash_completion.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/lib/dashdash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dashdash/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/lib/delayed_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/delayed-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/node_modules/domelementtype/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/node_modules/domelementtype/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/node_modules/domelementtype/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/node_modules/domelementtype/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/dom-serializer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domelementtype/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domelementtype/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domelementtype/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domelementtype/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/lib/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/lib/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/01-basic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/02-single_tag_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/03-single_tag_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/04-unescaped_in_script.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/05-tags_in_comment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/06-comment_in_script.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/07-unescaped_in_style.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/08-extra_spaces_in_tag.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/09-unquoted_attrib.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/10-singular_attribute.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/11-text_outside_tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/12-text_only.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/13-comment_in_text.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/14-comment_in_text_in_script.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/15-non-verbose.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/16-normalize_whitespace.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/17-xml_namespace.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/18-enforce_empty_tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/19-ignore_empty_tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/20-template_script_tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/21-conditional_comments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/22-lowercase_tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/23-dom-lvl1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/24-with-start-indices.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/cases/25-with-end-indices.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domhandler/test/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/querying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/lib/traversal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/test/fixture.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/test/tests/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/test/tests/legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/test/tests/traversal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/domutils/test/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/lib/LICENSE-jsbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/lib/ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/lib/sec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/ecc-jsbn/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/lib/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/lib/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/lib/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/maps/decode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/maps/entities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/maps/legacy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/maps/xml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/entities/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/.jscs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/Makefile.targ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/jsl.node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/lib/extsprintf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/extsprintf/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-deep-equal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-deep-equal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-deep-equal/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-deep-equal/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-deep-equal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/benchmark/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/benchmark/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/example/key_cmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/example/nested.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/example/str.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/example/value_cmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/test/cmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/test/nested.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/test/str.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fast-json-stable-stringify/test/to-json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/forever-agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/forever-agent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/forever-agent/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/forever-agent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/README.md.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/lib/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/lib/form_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/lib/populate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/form-data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/fs-cheerio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/api/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/api/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/api/forms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/api/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/api/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/cheerio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/node_modules/cheerio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/fs-cheerio/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/getpass/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/afterRequest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/beforeRequest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/browser.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/content.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/cookie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/creator.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/entry.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/har.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/header.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/log.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/page.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/pageTimings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/postData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/query.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/response.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/lib/timings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-schema/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/lib/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/lib/promise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/har-validator/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/CollectingHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/FeedHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/Parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/ProxyHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/Stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/Tokenizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/WritableStream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/htmlparser2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/.dir-locals.el" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/http_signing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/lib/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/lib/signer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/lib/verify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/http-signature/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/is-typedarray/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/is-typedarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/is-typedarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/is-typedarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/is-typedarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/isstream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/isstream/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsbn/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/spec/.eslintrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/spec/fixtures/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema-traverse/spec/index.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-00/hyper-schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-00/json-ref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-00/links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-00/schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-01/hyper-schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-01/json-ref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-01/links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-01/schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-02/hyper-schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-02/json-ref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-02/links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-02/schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/examples/address" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/examples/calendar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/examples/card" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/examples/geo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/examples/interfaces" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/hyper-schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/json-ref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-03/schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-04/hyper-schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-04/links" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-04/schema" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-zyp-json-schema-03.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/draft-zyp-json-schema-04.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/lib/links.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/lib/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-schema/test/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/json-stringify-safe/test/stringify_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/lib/jsprim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/jsprim/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.assignin/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.assignin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.assignin/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.assignin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.bind/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.bind/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.bind/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.bind/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.defaults/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.defaults/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.defaults/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.defaults/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.filter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.filter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.filter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.filter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.flatten/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.flatten/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.flatten/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.flatten/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.foreach/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.foreach/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.foreach/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.foreach/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.map/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.map/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.map/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.map/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.merge/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.merge/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.merge/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.merge/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.pick/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.pick/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.pick/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.pick/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reduce/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reduce/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reduce/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reduce/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reject/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reject/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.reject/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.some/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.some/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.some/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/lodash.some/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-db/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-types/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/mime-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/nth-check/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/oauth-sign/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/oauth-sign/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/oauth-sign/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/oauth-sign/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/pdenodeify/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/pdenodeify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/pdenodeify/lib/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/pdenodeify/lib/optional.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/pdenodeify/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/.tm_properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/lib/performance-now.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/lib/performance-now.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/src/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/src/performance-now.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/performance-now.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/scripts.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/scripts/delayed-call.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/scripts/delayed-require.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/scripts/difference.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/performance-now/test/scripts/initial-value.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/data/rules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/dist/psl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/dist/psl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/psl/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/punycode/LICENSE-MIT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/punycode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/punycode/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/punycode/punycode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/dist/qs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/lib/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/test/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/test/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/qs/test/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/getProxyFromURI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/har.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/hawk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/multipart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/oauth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/querystring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/redirect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/lib/tunnel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/request/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/Porting-Buffer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/dangerous.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/safer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/safer-buffer/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/bin/sshpk-conv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/bin/sshpk-sign" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/bin/sshpk-verify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/algs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/certificate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/dhe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/ed-compat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/errors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/fingerprint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/auto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/dnssec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/openssh-cert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/pem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/pkcs1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/pkcs8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/rfc4253.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/ssh-private.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/ssh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/x509-pem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/formats/x509.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/identity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/private-key.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/signature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/ssh-buffer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/man/man1/sshpk-conv.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/man/man1/sshpk-sign.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/man/man1/sshpk-verify.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/sshpk/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/memstore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/pathMatch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/permuteDomain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/pubsuffix-psl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/lib/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tough-cookie/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tunnel-agent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tunnel-agent/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tunnel-agent/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tunnel-agent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/AUTHORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/nacl-fast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/nacl-fast.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/nacl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/nacl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/nacl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/tweetnacl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/README_js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/bin/uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/bytesToUuid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/md5-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/rng-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/rng.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/sha1-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/sha1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/lib/v35.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/v1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/v3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/v4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/uuid/v5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/lib/verror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/node_modules/verror/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/qnhajsm07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/qnhlib07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/qnhpave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redaguayabo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redajsm07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redbagaces.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redbaru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redburio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redchitaria.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redcigefi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redcmuerte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redcuajiniquil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redfabio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redfortuna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redgarza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redguatuso.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redhuacalito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redimn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/rediztaru.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redjvinas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlacruz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlaguinea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlaligia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlascrucesoet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlasdelicias.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlaselvaoet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlib07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlimon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redlucha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redmaritza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redmawamba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/rednandayure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpaloverde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpaquera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpatio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpilangosta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpinilla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redpuravida.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redquepos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsanvito.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsardinal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsavegre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsbarbara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsjmontana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redsjupala.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redstamarta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redstarosacc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redtablazo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redtaboga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redtec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redturri.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redupala.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redupaz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redvirazu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redvpoas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScrapingDS/src/redzapote.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ScrapingDS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapingDS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ScrapingDS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScrapingDS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodrigo\Desktop\WSEstaciones\ScrapingDS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4725b295-7104-4fca-8d6d-05003bc2b587" name="Default" comment="" />
+      <created>1534446809758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534446809758</updated>
+      <workItem from="1534446816467" duration="8455000" />
+      <workItem from="1534459565245" duration="3198000" />
+      <workItem from="1534823984615" duration="82000" />
+      <workItem from="1535050871830" duration="4599000" />
+      <workItem from="1535057381174" duration="4471000" />
+      <workItem from="1535062078375" duration="378000" />
+      <workItem from="1535073613286" duration="330000" />
+      <workItem from="1535655652973" duration="2143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23656000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32817337" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972136" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49078342" visible="true" weight="0.27609682" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5092166" side_tool="true" visible="true" weight="0.27609682" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="67" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
