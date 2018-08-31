@@ -4,14 +4,14 @@ const request = require('request');
 const mkdir = require('make-dir');
 
 const makeFolder = function(folder_name) {
-    mkdir(folder_name, function(err){
+    mkdir(`images/${folder_name}`, function(err){
         console.log(err);
     });
 }
 
 const download = function (folder, uri, filename, callback) {
     request.head(uri, function (err, res, body) {
-        request(uri).pipe(fs.createWriteStream(`${folder}/${filename}`)).on('close', callback);
+        request(uri).pipe(fs.createWriteStream(`images/${folder}/${filename}`)).on('close', callback);
     });
 };
 
