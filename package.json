@@ -12,6 +12,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "fs-cheerio": "^2.0.1",
+    "make-dir": "^1.3.0",
     "request": "^2.88.0"
   }
 }
